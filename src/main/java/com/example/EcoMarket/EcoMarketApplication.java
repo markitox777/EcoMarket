@@ -1,5 +1,6 @@
 package com.example.EcoMarket;
 
+import model.Producto;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
